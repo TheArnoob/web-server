@@ -8,3 +8,4 @@ axum = {version = "0.7", features = []}
 axum-server = {version = "0.7", features = []}
 tokio = { version = "1.41", features = ["full"] }
 chrono = "0.4"
+serde = {version = "1.0.215", features = ["serde_derive"]}
